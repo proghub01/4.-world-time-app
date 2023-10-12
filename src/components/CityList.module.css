@@ -1,0 +1,13 @@
+.cityList {
+    margin-top: 10px;
+}
+
+.noClocks {
+    width: 100%;
+    height: 500px;
+    margin: 0 auto;
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+}

@@ -1,0 +1,30 @@
+.cityItemBlock {
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+    border-bottom: 1px solid #2e2e2e;
+    padding: 10px;
+}
+
+.cityName {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    width: 20%;
+}
+
+.cityTime {
+    display: flex;
+    justify-content: center;
+    font-size: 20px;
+    width: 40%;
+}
+
+.deleteBtn {
+    background-color: rgb(236, 57, 57);
+    color: white;
+    border: none;
+    border-radius: 10px;
+    width: 15%;
+}
